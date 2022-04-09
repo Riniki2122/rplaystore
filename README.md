@@ -1,2 +1,2 @@
-# rypixelstore
-RypixelStore Html Source
+# RplayStore
+RPlayStore Html Source
